@@ -1,0 +1,11 @@
+header{
+   width: 200px;
+}
+h1{
+    border: 2px solid aqua;
+    padding: 0.5em;
+}
+p{
+    font-size: 2rem;
+    width: 40ch;
+}
